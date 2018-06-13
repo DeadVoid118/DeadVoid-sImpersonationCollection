@@ -109,7 +109,7 @@
 		Colour lists to be used can be found here: https://github.com/Innoxia/liliths-throne-public/blob/master/src/com/lilithsthrone/utils/ColourListPresets.java -->
 		<primaryColours values="ALL_WITH_METALS"/> 
 		<primaryColoursDye/>
-		<secondaryColours/>
+		<secondaryColours values="ALL_WITH_METALS"/>
 		<secondaryColoursDye/>
 		<tertiaryColours/>
 		<!-- You can also make your own, custom list of colours to be used. The following colours in 'tertiaryColoursDye' are all found within the list preset 'ALL', but this is for a demonstration.
